@@ -91,4 +91,5 @@ lang: zh-tw
         ![](https://i.imgur.com/qaXjWBy.png)
 
 
-
+___
+Maintained by WayneWen (@wayne7707), Eddie and Eric (@erictychang).
