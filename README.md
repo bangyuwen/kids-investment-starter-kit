@@ -8,7 +8,7 @@ lang: zh-tw
 ## 支持小朋友
 
 1. 幫巨人傑訪談投票 [連結](https://t.me/printmoneey/3002)
-2. Apple Podcast 五星留言 [連結](https://hackmd.io/@eddie1989/B1QYlEQ3u#Android%E7%94%A8%E6%88%B6)
+2. Apple Podcast 五星留言 [連結](https://hackmd.io/@eddie1989/B1QYlEQ3u)
 3. 按讚分享IG新貼文 [連結](https://www.instagram.com/kids_investment_/)
 4. Youtube 按讚分享小鈴鐺 [連結](https://www.youtube.com/channel/UCp2CPYdnlEHvcJpLGjB7qgw)
 5. 同學會有發文的時候按個讚    [愛大](https://www.cmoney.tw/follow/channel/articles-421190)/[不魯](https://www.cmoney.tw/follow/channel/articles-348328)/[凱瑞](https://www.cmoney.tw/follow/channel/articles-372505)
@@ -19,10 +19,11 @@ lang: zh-tw
 1. [Clubhouse](https://www.clubhouse.com/club/小朋友學投資)
 2. [小朋友學投資入口網站(1)](https://taplink.cc/wanye_w)
 3. [小朋友學投資入口網站(2)](https://kids-investment-post.herokuapp.com/)
-4. [小朋友學投資 X 博客來 _ 2021職場人書展](https://activity.books.com.tw/crosscat/show/A00000024976)
-5. [Eric 航海記實](https://hackmd.io/@etychang/r1nnIZtK_) （投資紀錄參考範本）
-6. [同學會快速閱讀板 Google Sheet](https://docs.google.com/spreadsheets/d/1AuoV2WXin7EN1GGpscRDwURngiv86kmzuxvft2ydcpA/edit)（請先複製到自己的Google Drive）
-7. [台股近十日成值排行動態圖](https://public.flourish.studio/visualisation/6510338/)
+4. [推薦書單](https://activity.books.com.tw/crosscat/show/A00000024976)
+5. [美食地圖](https://linktr.ee/kids_investment_food)
+6. [Eric 航海記實](https://hackmd.io/@etychang/r1nnIZtK_) （投資紀錄參考範本）
+7. [同學會快速閱讀板 Google Sheet](https://docs.google.com/spreadsheets/d/1AuoV2WXin7EN1GGpscRDwURngiv86kmzuxvft2ydcpA/edit)（請先複製到自己的Google Drive）
+8. [台股近十日成值排行動態圖](https://public.flourish.studio/visualisation/6510338/)
 
 ## 板規（小朋友歡樂聊天室）
 《公告》
@@ -106,4 +107,9 @@ lang: zh-tw
 
 
 ___
-Maintained by WayneWen (@wayne7707), Eddie and Eric (@erictychang).
+<font size=2>This page is maintained by WayneWen (@wayne7707), Eddie and Eric (@erictychang).</font>
+
+<font size=2>[小朋友學投資入口網站(2)] and [同學會快速閱讀板 Google Sheet] are maintained by AzureBlue (@charlie0228).</font>
+
+<font size=2>
+[台股近十日每日成值排行動態視覺化圖] is maintained by ChangHong & Red Wu</font>
